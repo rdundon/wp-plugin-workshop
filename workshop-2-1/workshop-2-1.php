@@ -1,3 +1,4 @@
+<?php
 /*
 Plugin Name: Workshop Plugin - Section 2 - 1
 Plugin URI: https://plugin-url.com/
